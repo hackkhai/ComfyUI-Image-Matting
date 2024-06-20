@@ -10,6 +10,6 @@ Repository = "https://github.com/hackkhai/ComfyUI-Image-Matting"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "hackkhai"
 DisplayName = "ComfyUI-Image-Matting"
 Icon = ""
