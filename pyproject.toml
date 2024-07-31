@@ -2,7 +2,7 @@
 name = "comfyui-image-matting"
 description = "This node improves the quality of the image mask. more suitable for image composite matting"
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies = ["opencv-contrib-python>=4.7.0.72", "opencv-contrib-python-headless>=4.7.0.72", "opencv-python>=4.7.0.72", "opencv-python-headless>=4.7.0.72", "transformers @ git+https://github.com/huggingface/transformers"]
 
 [project.urls]
